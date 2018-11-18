@@ -9,6 +9,7 @@ public class Main {
     private static int Calculation(int a, int b) {
         int result = 0;
         result = a + b;
+        System.out.println("result = " + result);
         return result;
     }
 
